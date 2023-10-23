@@ -57,12 +57,7 @@ Here are some ideas to get you started:
 </div><br>
 
  
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:jihui.lee5890@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
+
 <div align="center">
 
 ## 👩‍💻 My Github Stats 👩‍💻
@@ -71,4 +66,10 @@ Here are some ideas to get you started:
 
 </div>
 
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:jihui.lee5890@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
 
