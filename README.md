@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## 👩‍💻 My Github Stats 👩‍💻
-[![jihilli's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihilli&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=buefy)](https://github.com/jihilli/github-readme-stats)
+[![jihilli's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihilli&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=date_night)](https://github.com/jihilli/)
 </div>
 
 </div>
