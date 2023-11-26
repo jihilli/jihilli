@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **jihilli/jihilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="left">
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Frontend%20Developer&desc=Jeehee's%20GitHub&descAlignY=70)
 
