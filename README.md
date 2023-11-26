@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Frontend%20Developer&desc=Jeehee's%20GitHub&descAlignY=70)
 
 <br>
-<br>
-<br>
-<br>
 
 <div style="display:flex; flex-direction:row;">
     <h3 align="center">📚 Language 📚</h3>
