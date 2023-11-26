@@ -49,7 +49,6 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
         </p>
 
-        <br>
 
 <h3 align="center">📚 IDE & etc 📚</h3>
         <p align="center">
