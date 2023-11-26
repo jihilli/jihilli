@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 <div style="display:flex; flex-direction:row;">
     <h3 align="center">📚 Language 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3766AB?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/TypeScript-3766AB?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
 </p>
   <br>
 <h3 align="center">📚 Tech Stack 📚</h3>
