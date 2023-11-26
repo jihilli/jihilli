@@ -27,8 +27,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <br> 
-  <br>
 </p>
   <br>
 <h3 align="center">📚 Tech Stack 📚</h3>
