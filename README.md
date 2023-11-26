@@ -42,7 +42,7 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
         </p>
 
-        <h3 align="center">📚 DB 📚</h3>
+<h3 align="center">📚 DB 📚</h3>
         <p align="center">
             <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
             <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
         <br>
 
-        <h3 align="center">📚 IDE & etc 📚</h3>
+<h3 align="center">📚 IDE & etc 📚</h3>
         <p align="center">
             <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white">
             <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
