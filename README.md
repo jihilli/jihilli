@@ -58,20 +58,16 @@ Here are some ideas to get you started:
 
 </div><br>
 
- 
-<!--
-
 <div align="center">
 
 ## 👩‍💻 My Github Stats 👩‍💻
 [![jihilli's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihilli&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=date_night)](https://github.com/jihilli/)
 </div>
--->
 </div>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:jihui.lee5890@gmail.com">
+    <a href="mailto:jeehee2610@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
