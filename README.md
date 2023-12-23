@@ -30,7 +30,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>&nbsp
 </p>
-  <br>
 <h3 align="center">📚 Tech Stack 📚</h3>
         <p align="center">
             <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
@@ -66,11 +65,12 @@ Here are some ideas to get you started:
 ## 👩‍💻 My Github Stats 👩‍💻
 [![jihilli's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihilli&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=date_night)](https://github.com/jihilli/)
 </div>
-</div>
+
 
 ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
+<p align="center">
     <a href="mailto:jeehee2610@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-</div><br>
+</p>
+</div>
