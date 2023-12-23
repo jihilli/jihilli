@@ -58,7 +58,7 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
         </p>
 
-</div><br>
+</div>
 
 <div align="center">
 
