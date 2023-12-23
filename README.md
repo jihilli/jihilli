@@ -56,13 +56,15 @@ Here are some ideas to get you started:
         </p>
 
 </div>
-
+<br/>
+<br/>
 <div align="center">
 
 ## 👩‍💻 My Github Stats 👩‍💻
 [![jihilli's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihilli&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=date_night)](https://github.com/jihilli/)
 </div>
 
+<br/>
 
 ## 📞 Contact 📞
 <p align="center">
